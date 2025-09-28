@@ -1,0 +1,24 @@
+# File con credenziali - MAI condividere!
+.env
+.env.local
+*.key
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# CSV di lavoro (non caricare dati reali)
+data/input/*.csv
+data/processed/*.csv
+data/failed/*.csv
+
+# Log
+logs/*.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
