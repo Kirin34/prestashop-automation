@@ -28,6 +28,7 @@ class Config:
     INPUT_DIR = BASE_DIR / 'data' / 'input'
     PROCESSED_DIR = BASE_DIR / 'data' / 'processed'
     FAILED_DIR = BASE_DIR / 'data' / 'failed'
+    ASSETS_DIR = BASE_DIR / 'data' / 'assets'
     LOG_DIR = BASE_DIR / 'logs'
     
     # Logging

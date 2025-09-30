@@ -13,7 +13,7 @@ env/
 data/input/*.csv
 data/processed/*.csv
 data/failed/*.csv
-
+data/assets/*
 # Log
 logs/*.log
 *.log
